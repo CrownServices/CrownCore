@@ -1,0 +1,8 @@
+rootProject.name = 'CrownCoreNew'
+include 'plugin'
+include 'modules'
+include 'modules:annotations'
+include 'modules:configuration'
+include 'modules:database-mysql'
+include 'modules:database-redisson'
+include 'modules:hooks'
