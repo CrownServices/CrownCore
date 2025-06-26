@@ -20,6 +20,11 @@ repositories {
         url = "https://oss.sonatype.org/content/groups/public/"
     }
 
+    maven {
+        name = "extendedclip"
+        url = "https://repo.extendedclip.com/releases/"
+    }
+
     maven { url "https://jitpack.io" }
 }
 

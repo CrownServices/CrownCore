@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -12,8 +13,8 @@
             <option value="$PROJECT_DIR$/modules/annotations" />
             <option value="$PROJECT_DIR$/modules/common" />
             <option value="$PROJECT_DIR$/modules/configuration" />
+            <option value="$PROJECT_DIR$/modules/database-common" />
             <option value="$PROJECT_DIR$/modules/database-mysql" />
-            <option value="$PROJECT_DIR$/modules/database-redisson" />
             <option value="$PROJECT_DIR$/modules/hooks" />
             <option value="$PROJECT_DIR$/modules/hooks/placeholder-api" />
             <option value="$PROJECT_DIR$/modules/hooks/vault" />

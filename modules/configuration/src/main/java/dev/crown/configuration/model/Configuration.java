@@ -1,7 +1,6 @@
 package dev.crown.configuration.model;
 
 import dev.crown.configuration.annotation.ConfigComment;
-import dev.crown.configuration.annotation.ConfigEmbedded;
 import dev.crown.configuration.annotation.ConfigKey;
 import org.yaml.snakeyaml.DumperOptions;
 import org.yaml.snakeyaml.LoaderOptions;

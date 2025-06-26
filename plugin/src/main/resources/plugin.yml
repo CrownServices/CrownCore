@@ -1,0 +1,10 @@
+name: CrownCore
+version: ${project.version}
+main: dev.crown.core.CrownCore
+api-version: 1.20
+authors:
+  - Obeeyyyy
+  - mzcy_
+softdepend:
+  - Vault
+  - PlaceholderAPI
