@@ -1,4 +1,13 @@
 dependencies {
+    implementation project(":modules:annotations")
+    implementation project(":modules:common")
+    implementation project(":modules:configuration")
+    implementation project(":modules:database-common")
+    implementation project(":modules:database-mysql")
+    implementation project(":modules:hooks:vault")
+    implementation project(":modules:hooks:placeholder-api")
+    implementation project(":modules:processor")
+
     compileOnly("io.papermc.paper:paper-api:1.20.1-R0.1-SNAPSHOT")
 }
 
